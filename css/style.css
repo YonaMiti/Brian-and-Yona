@@ -1,3 +1,5 @@
+
+
 #navbar{
     position: fixed;
     top: 0;
@@ -6,6 +8,9 @@
     background-color:cadetblue;
  }
 
+ #welcome-section h1{
+     margin-top: 170px;
+ }
 #welcome-section{
     width:100%;
     height:100vh;
